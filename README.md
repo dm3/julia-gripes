@@ -3,7 +3,6 @@
 Julia 1.0.3
 
     > julia
-    > include("set_load_path.jl") # adds `dev_projects` to LOAD_PATH
     > ]activate env
 
 Ok, now try `instantiate`:
